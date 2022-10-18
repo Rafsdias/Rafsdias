@@ -29,4 +29,4 @@
 
 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fbadges.pufler.dev%2Fvisits%2FRafsdias%2FRafsdias&countColor=%23263759&style=flat)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fbadges.pufler.dev%2Fvisits%2FRafsdias%2FRafsdias&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fbadges.pufler.dev%2Fvisits%2FRafsdias%2FRafsdias)
